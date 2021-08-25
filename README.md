@@ -11,3 +11,6 @@
      3. 현재 위치 또는 특정 지역의 여행지를 추천받을 수 있도록 함
      4. 기록했던 사진을 SNS(인스타그램)에 공유할 수 있도록 함
    
+   
+![1](https://user-images.githubusercontent.com/81809891/130806204-95c96a60-b6ab-4b4f-966f-0a71b4ac52e5.GIF)
+
