@@ -13,12 +13,19 @@
    
    
 ![Travel Diary_page-0003](https://user-images.githubusercontent.com/81809891/130806861-953142eb-84e6-4679-944c-e86661e7cc6f.jpg)
+------------
 ![Travel Diary_page-0004](https://user-images.githubusercontent.com/81809891/130806872-059b98b7-cc47-4d88-9122-3e4e81da48c2.jpg)
+------------
 ![Travel Diary_page-0005](https://user-images.githubusercontent.com/81809891/130806883-2201209f-e666-40ce-8370-34e1bc3ebc3e.jpg)
+------------
 ![Travel Diary_page-0006](https://user-images.githubusercontent.com/81809891/130806908-404bbe4f-5d44-4e0a-8141-e00b21da31ab.jpg)
+------------
 ![Travel Diary_page-0007](https://user-images.githubusercontent.com/81809891/130806915-b0224792-e8f7-4fd9-9c93-67b34f280b61.jpg)
+------------
 ![Travel Diary_page-0008](https://user-images.githubusercontent.com/81809891/130806926-ea82990d-55fe-4d4e-97e8-e646b2ab263c.jpg)
+------------
 ![Travel Diary_page-0009](https://user-images.githubusercontent.com/81809891/130806934-467115ab-2def-48c4-b30a-15aaadc1237a.jpg)
+------------
 ![Travel Diary_page-0010](https://user-images.githubusercontent.com/81809891/130806944-576468c9-8907-4239-8276-a725566bc46c.jpg)
 
 
